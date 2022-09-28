@@ -1,0 +1,4 @@
+Temp/**
+.question_assets/**/\.*
+.user_session
+README.md
