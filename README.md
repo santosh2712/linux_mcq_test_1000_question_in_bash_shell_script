@@ -2,7 +2,7 @@
 [![made-with-Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/) 
+[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js](https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script/commits/)
 
 
 Hello Friends,
