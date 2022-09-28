@@ -1,0 +1,2 @@
+# linux_mcq_test_1000_question_in_bash_shell_script
+linus_mcq_test_1000_question_in_bash_shell_script
