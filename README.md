@@ -9,7 +9,7 @@ Recently I wanted to test my skill-set in Linux for review. I searched online fo
 
 ### Linux MCQ Test Image
 
-![Question1](https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script/blob/main/linux_mcq_images/question1.png?raw=true "Question1")
+![Question1](https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script/blob/main/.linux_mcq_images/question1.png?raw=true "Question1")
 
 ## Why is it written in Bash? 
 Because it is easy and super portable. Most Linux boxes are running with bash. And as a Linux admin, it is easy to do so. Bash shell is the native way of interacting with Linux. In terms of portability just copy the folder on any linux box running with bash and required dependency and it would work. 
@@ -90,24 +90,24 @@ On checking of dependency, requirement user will be asked for the username as sh
 As shown in image below 
 
 
-![Starting Linux MCQ Test](https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script/blob/main/linux_mcq_images/Starting_script.png?raw=true "Starting Linux MCQ Test")
+![Starting Linux MCQ Test](https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script/blob/main/.linux_mcq_images/Starting_script.png?raw=true "Starting Linux MCQ Test")
 
 It will start or resume an MCQ test session for the user. On fresh start choose the number of MCQ test chapters you want to take test. As shown in below image.
 
 
-![Choose MCQ test Chapter](https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script/blob/main/linux_mcq_images/choose_exam_chapter.png?raw=true "Choose MCQ test Chapter")
+![Choose MCQ test Chapter](https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script/blob/main/.linux_mcq_images/choose_exam_chapter.png?raw=true "Choose MCQ test Chapter")
 
 This will start MCQ Test EXAM for user. As shown in below image.
 
-![Question1](https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script/blob/main/linux_mcq_images/question1.png?raw=true "Question1")
+![Question1](https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script/blob/main/.linux_mcq_images/question1.png?raw=true "Question1")
 
 #### Note: You have to input only Option A or B or C or D to choose your answer. As shown in above pic. If The answer is correct following window will be shown.
 
-![Question1_ans](https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script/blob/main/linux_mcq_images/question1_ans.png?raw=true "Question1_ans")
+![Question1_ans](https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script/blob/main/.linux_mcq_images/question1_ans.png?raw=true "Question1_ans")
 
 #### It will wait for 10 Seconds to see the expanation of the answer. Later it will move to next Question in chapter. As shown in below image.
 
-![Question2](https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script/blob/main/linux_mcq_images/question2_window.png?raw=true "Question2")
+![Question2](https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script/blob/main/.linux_mcq_images/question2_window.png?raw=true "Question2")
 
 ##### It will Update Question Completed , Correct Answer and Incorrect Answer Column . As shown in above image.
 
@@ -138,4 +138,4 @@ Super lite in nature as it only uses a few command. It can be run on any linux b
 https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script
 ```
 
-##  Best of Luck for your Linux MCQ Test
+## Please consider giving a  STAR to the repo. It will help in keeping  the repo and app alive.
