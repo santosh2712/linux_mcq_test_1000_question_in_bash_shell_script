@@ -12,7 +12,7 @@ Recently I wanted to test my skill-set in Linux for review. I searched online fo
 ![Question1](https://github.com/santosh2712/linux_mcq_test_1000_question_in_bash_shell_script/blob/main/.linux_mcq_images/question1.png?raw=true "Question1")
 
 ## YouTube Demo Video (Click on the Image below )
-[![Demo YouTube Video Link ](https://i9.ytimg.com/vi_webp/3qeWFpvtF7Y/mqdefault.webp?v=6364c394&sqp=CPyxlZsG&rs=AOn4CLDb1vGAeCT3CK-MWi-9yHW_VgvWKA)](https://www.youtube.com/watch?v=3qeWFpvtF7Y&t=3s)
+[![Demo YouTube Video Link ](https://i9.ytimg.com/vi_webp/3qeWFpvtF7Y/mqdefault.webp?v=6364c394&sqp=CKyw0JwG&rs=AOn4CLAYszV16NeE1bnAV4uSAtC_c2a3hQ)](https://www.youtube.com/watch?v=3qeWFpvtF7Y&t=3s)
 
 
 ## Why is it written in Bash? 
